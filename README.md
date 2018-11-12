@@ -26,10 +26,8 @@ Voeg toe aan `Hotstrings.ahk` en rechts klik op het "Kim Possible" tray icon en 
 Hotkeys
 -------
 
-Evalueren om over te nemen uit Mi-Ke:  
+Deze nog toevoegen:  
 - Change casing of selected text
 - CalculateNoticePeriod
 - CalculatePostcode
 - OpenGoogleMaps
-
-Other? Quickstarter for apps? Google text?

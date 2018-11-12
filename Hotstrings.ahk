@@ -1,1 +1,2 @@
 :*:wrsl::waarschijnlijk
+:*:vnl::voornamelijk
